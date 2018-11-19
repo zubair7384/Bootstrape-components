@@ -1,0 +1,76 @@
+.Alert .custom-alert .alert{
+    font-size: .8em;
+    border-radius: 0;
+}
+.Badge .custom-badge .badge{
+    font-size: .8em;
+    border-radius: 0;
+}
+.Breadcrumb .custom-breadcrumb .breadcrumb{
+    font-size: .8em;
+    border-radius: 0;
+}
+.Buttons .custom-buttons .btn{
+    font-size: .8em;
+    border-radius: 0;
+}
+.custom-buttonsgroup .btn{
+    margin: 1rem auto;
+    font-size: .8rem;
+    border-radius: 0;
+}
+.custom-cards .card{
+    font-size: .8rem;
+    border-radius: 0;
+}
+.custom-cards .card .btn{
+    font-size: .8rem;
+    border-radius: 0;
+}
+.custom-carouse{
+    margin-top: 1rem;
+    margin-bottom: 1rem;
+}
+.custom-collaps .btn{
+    font-size: .8rem;
+    border-radius: 0;
+}
+.custom-dropdown .btn{
+    font-size: .8rem;
+    border-radius: 0;
+}
+.custom-form .form-group >input{
+    font-size: .8rem;
+    border-radius: 0;
+}
+.custom-form .btn{
+    font-size: .8rem;
+    border-radius: 0;
+    margin-bottom: 1rem;
+}
+.custom-form-group .input-group-text >input{
+    font-size: .8rem;
+    border-radius: 0;
+    margin-bottom: 1rem;
+}
+.custom-jumbotron >h1{
+    font-size: 2rem;
+}
+.custom-list-group .list-group{
+    border-radius: 0;
+}
+.custom-nav >ul{
+    font-size: 1rem;
+    margin: 1rem;
+}
+.custom-pagination .pagination{
+    font-size: .8rem;
+}
+.custom-progress .progress{
+    margin: 1rem;
+    border-radius: 0;
+}
+.custom-tooltips .btn{
+    border-radius: 0;
+}
+
